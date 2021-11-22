@@ -8,7 +8,7 @@ body {
   background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%); }
 
 header .containerFondo {
-  background: url("https://github.com/SilvinaMara/ProyectoFinal22/blob/ec465b91d34795908552c201bcee0af00eaa25ca/img/fotoIndex.jpeg?raw=true");
+  background: url("./img/fotoIndex.jpeg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
